@@ -1,0 +1,6 @@
+@AWS.S3.Dotnet.Beta_HostAddress = http://localhost:5132
+
+GET {{AWS.S3.Dotnet.Beta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
