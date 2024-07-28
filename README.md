@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/AWS.S3.Dotnet.Beta.git
+git clone https://github.com/maduradevDotNet/AWS.S3.Dotnet.Beta.git
 Navigate to the project directory:
 
 bash
